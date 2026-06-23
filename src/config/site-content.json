@@ -1,7 +1,7 @@
 {
 	"meta": {
 		"title": "anh",
-		"description": "YYsuni 的个人博客，记录前端开发、探索、笔记。前端 UI 更新代码仓库。",
+		"description": "anh 的个人博客，记录后端开发、探索、笔记。",
 		"username": "anh"
 	},
 	"theme": {
@@ -45,21 +45,14 @@
 		{
 			"id": "github",
 			"type": "github",
-			"value": "https://github.com/yysuni",
+			"value": "https://github.com/anhyxdy",
 			"label": "Github",
 			"order": 3
 		},
 		{
-			"id": "juejin",
-			"type": "juejin",
-			"value": "https://juejin.cn/user/2427311675422382",
-			"label": "稀土掘金",
-			"order": 2
-		},
-		{
 			"id": "email",
 			"type": "email",
-			"value": "yysuni1001@gmail.com",
+			"value": "2627464043@qq.com",
 			"label": "",
 			"order": 1
 		}
